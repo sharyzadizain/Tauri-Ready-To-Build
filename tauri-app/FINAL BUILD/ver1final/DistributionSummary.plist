@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AI-Boris.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0.1.0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CDE172C6F78A68CBDBAA68652292D00A2DB29780</string>
+				<key>dateExpires</key>
+				<string>02.03.2027</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>U8T962NCZ2.com.toombez.tauri-app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>U8T962NCZ2</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>tauri-app.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>152481bb-d0a4-44b4-9b15-5f6bcd52c742</string>
+				<key>dateExpires</key>
+				<string>31.03.2026</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.toombez.tauri-app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>U8T962NCZ2</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
